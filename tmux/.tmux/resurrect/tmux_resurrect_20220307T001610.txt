@@ -1,0 +1,13 @@
+pane	thesis	1	:ExpBERT code	1	:*	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/year4_project/data_utils	1	bash	:
+pane	thesis	2	:ExpBERT	0	:-	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/year4_project	1	bash	:
+pane	thesis	3	:ExpBERT	0	:	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/year4_project	1	bash	:
+pane	thesis	4	:spouse dataset	0	:	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/Dataset/spouse	1	bash	:
+pane	thesis	5	:crisis dataset	0	:	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/Dataset/CrisisNLP_labeled_data_crowdflower	1	bash	:
+pane	thesis	6	:General	0	:	1	:/home/dimipili/Documents/Documents/my_folder/University/Year_4/Thesis/year4_project	1	bash	:
+window	thesis	1	1	:*	be1e,203x54,0,0,1
+window	thesis	2	0	:-	be1f,203x54,0,0,2
+window	thesis	3	0	:	be24,203x54,0,0,7
+window	thesis	4	0	:	be20,203x54,0,0,3
+window	thesis	5	0	:	be22,203x54,0,0,5
+window	thesis	6	0	:	be21,203x54,0,0,4
+state	thesis	
